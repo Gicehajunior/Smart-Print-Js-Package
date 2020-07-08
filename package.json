@@ -1,0 +1,19 @@
+{
+  "name": "smart-print-js",
+  "version": "1.0.0",
+  "description": "Javascript write method",
+  "main": "index.js",
+  "scripts": {
+    "test": "put(\"Hello World\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gicehajunior/Smart-Print-Js-Package.git"
+  },
+  "author": "Giceha Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gicehajunior/Smart-Print-Js-Package/issues"
+  },
+  "homepage": "https://github.com/Gicehajunior/Smart-Print-Js-Package#readme"
+}
